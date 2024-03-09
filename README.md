@@ -1,5 +1,12 @@
 ### Hi there 🌱
 <!--START_SECTION:waka-->
+
+```txt
+Python   19 hrs 48 mins  █████████████████████████   99.87 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **Dieg0raf/Dieg0raf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
