@@ -2,11 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    15 mins         █████████████▓░░░░░░░░░░░   54.55 %
-CSS           9 mins          ████████▒░░░░░░░░░░░░░░░░   33.41 %
-Bash          3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
