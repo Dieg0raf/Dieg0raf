@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell      7 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.19 %
-Python       5 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Markdown     5 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-TypeScript   4 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-Text         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Haskell      7 hrs 22 mins   ████████▓░░░░░░░░░░░░░░░░   34.58 %
+TypeScript   4 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
+Markdown     3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Python       3 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Text         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
