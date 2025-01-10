@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         12 hrs 45 mins  █████████▒░░░░░░░░░░░░░░░   37.59 %
-Python             11 hrs 31 mins  ████████▒░░░░░░░░░░░░░░░░   33.96 %
-Markdown           3 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-reStructuredText   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Bash               1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+TypeScript         12 hrs 20 mins  █████████░░░░░░░░░░░░░░░░   35.86 %
+Python             9 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+Markdown           4 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+C++                3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+reStructuredText   1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
