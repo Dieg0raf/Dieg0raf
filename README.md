@@ -1,4 +1,6 @@
 ### Hi there 🌱
+
+## Coding during the Past 7 Days:
 <!--START_SECTION:waka-->
 
 ```txt
