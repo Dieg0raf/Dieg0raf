@@ -1,6 +1,10 @@
-### Hi there 🌱
+### Hi there 🌱  
 
-## Coding during the Past 7 Days:
+## 🖥️ My Portfolio  
+Check out my portfolio website to see my projects and experience:  
+➡️ [**My Portfolio**](https://dieg0raf.github.io/)  
+
+## 📊 Coding during the Past 7 Days: 
 <!--START_SECTION:waka-->
 
 ```txt
