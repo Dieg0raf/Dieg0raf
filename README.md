@@ -8,11 +8,11 @@ Check out my portfolio website to see my projects and experience:
 <!--START_SECTION:waka-->
 
 ```txt
-C++           5 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.32 %
-Lua           2 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
-C             1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Markdown      39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Other         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+C++           6 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   38.81 %
+Lua           4 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+Markdown      1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Other         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+C             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
