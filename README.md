@@ -8,11 +8,11 @@ Check out my portfolio website to see my projects and experience:
 <!--START_SECTION:waka-->
 
 ```txt
-C++           7 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   32.39 %
-Lua           7 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-tmux          2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Markdown      1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-TOML          1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Lua           8 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.62 %
+C++           7 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+tmux          2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Markdown      1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+TOML          1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
