@@ -12,11 +12,11 @@ I'm building a basic web server using C++ as a personal learning project. It's h
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    14 hrs 9 mins   █████████████░░░░░░░░░░░░   51.78 %
-C++           5 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Prisma        2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Python        1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Other         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+TypeScript    9 hrs 17 mins   █████████████░░░░░░░░░░░░   52.07 %
+C++           5 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.19 %
+Other         59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Markdown      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Prisma        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
