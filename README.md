@@ -12,7 +12,7 @@ I'm building a basic web server using C++ as a personal learning project. It's h
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 33 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
