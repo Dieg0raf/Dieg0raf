@@ -22,7 +22,10 @@ As I study operating systems, here are some key goals I’m working toward:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          34 mins         ███████████▓░░░░░░░░░░░░░   47.27 %
+Other      28 mins         █████████▓░░░░░░░░░░░░░░░   39.25 %
+Text       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
