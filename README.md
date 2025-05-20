@@ -9,6 +9,15 @@ I'm currently diving into operating systems to gain a better understanding of ho
 ➡️ [**Textbook: Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
 ➡️ [**OS Learning Repository**](https://github.com/Dieg0raf/os)
 
+## 🎯 Goals  
+As I study operating systems, here are some key goals I’m working toward:
+
+- 🧠 Deepen my understanding of how OSes work under the hood (processes, memory, file systems, system calls)
+- ⚙️ Explore and modify the [xv6](https://github.com/mit-pdos/xv6-public) Unix-like teaching OS to learn about kernel internals
+- 🔧 Write and edit custom system calls in xv6 to better understand user–kernel interactions
+- 🛠️ Eventually build a minimal operating system from scratch to solidify everything I've learned
+
+
 ## 📊 Coding during the Past 7 Days: 
 <!--START_SECTION:waka-->
 
