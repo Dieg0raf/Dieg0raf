@@ -4,9 +4,10 @@
 Check out my portfolio website to see my projects and experience:  
 ➡️ [**My Portfolio**](https://dieg0raf.github.io/)  
 
-## 🚧 Currently Working On  
-I'm building a basic web server using C++ as a personal learning project. It's helping me get a deeper understanding of low-level networking, how HTTP works, and how servers handle client requests.  
-➡️ [**C++ Web Server Repository**](https://github.com/Dieg0raf/web_server)
+## 📘 Currently Learning  
+I'm currently diving into operating systems to gain a better understanding of how computers work under the hood — from process management and memory to file systems and system calls. I'm reading *Operating Systems: Three Easy Pieces* and documenting my journey and notes along the way.  
+➡️ [**Textbook: Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
+➡️ [**OS Learning Repository**](https://github.com/Dieg0raf/os)
 
 ## 📊 Coding during the Past 7 Days: 
 <!--START_SECTION:waka-->
