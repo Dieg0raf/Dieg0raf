@@ -22,11 +22,11 @@ As I study operating systems, here are some key goals I’m working toward:
 <!--START_SECTION:waka-->
 
 ```txt
-Text        3 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   28.46 %
-C++         3 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
-Python      2 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-hyprlang    1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-conf        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Text        5 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.08 %
+C++         3 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+Python      2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+hyprlang    2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+conf        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
