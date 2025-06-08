@@ -22,11 +22,11 @@ As I study operating systems, here are some key goals I’m working toward:
 <!--START_SECTION:waka-->
 
 ```txt
-C           7 hrs 51 mins   ██████████████░░░░░░░░░░░   56.56 %
-Python      4 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.32 %
-tmux        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Docker      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Assembly    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+C           9 hrs 29 mins   █████████████████████░░░░   84.12 %
+tmux        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Docker      23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Python      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+hyprlang    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
