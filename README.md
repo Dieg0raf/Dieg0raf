@@ -22,10 +22,9 @@ As I study operating systems, here are some key goals I’m working toward:
 <!--START_SECTION:waka-->
 
 ```txt
-C          3 hrs 28 mins   ███████████████████████▓░   95.33 %
-hyprlang   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C          2 hrs 48 mins   ███████████████████████▓░   94.37 %
+hyprlang   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
