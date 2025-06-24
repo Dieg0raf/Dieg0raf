@@ -22,7 +22,7 @@ As I study operating systems, here are some key goals I’m working toward:
 <!--START_SECTION:waka-->
 
 ```txt
-C   3 hrs 8 mins    █████████████████████████   100.00 %
+C   5 hrs 10 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
