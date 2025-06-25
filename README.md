@@ -4,18 +4,18 @@
 Check out my portfolio website to see my projects and experience:  
 ➡️ [**My Portfolio**](https://dieg0raf.github.io/)  
 
-## 📘 Currently Learning  
-I'm currently diving into operating systems to gain a better understanding of how computers work under the hood — from process management and memory to file systems and system calls. I'm reading *Operating Systems: Three Easy Pieces* and documenting my journey and notes along the way.  
-➡️ [**Textbook: Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
-➡️ [**OS Learning Repository**](https://github.com/Dieg0raf/os)
+## Currently Learning: Systems Programming  
 
-## 🎯 Goals  
-As I study operating systems, here are some key goals I’m working toward:
+I'm deeply interested in understanding how computers work at a low level — from how code runs on hardware, to how systems coordinate resources, handle memory, I/O, networking, and more. I'm pursuing systems programming through both operating systems and C programming fundamentals.
 
-- 🧠 Deepen my understanding of how OSes work under the hood (processes, memory, file systems, system calls)
-- ⚙️ Explore and modify the [xv6](https://github.com/mit-pdos/xv6-public) Unix-like teaching OS to learn about kernel internals
-- 🔧 Write and edit custom system calls in xv6 to better understand user–kernel interactions
-- 🛠️ Eventually build a minimal operating system from scratch to solidify everything I've learned
+### Operating Systems  
+Studying *Operating Systems: Three Easy Pieces* and exploring the [xv6](https://github.com/mit-pdos/xv6-public) teaching OS.  
+➡️ [OS Learning Repo](https://github.com/Dieg0raf/os)  
+➡️ [OSTEP Textbook](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+### C Programming  
+Working through *The C Programming Language* (K&R) to master low-level memory, pointers, and systems-style thinking in C.  
+➡️ [K&R Practice Repo](https://github.com/Dieg0raf/k-and-r-practice) 
 
 
 ## 📊 Coding during the Past 7 Days: 
