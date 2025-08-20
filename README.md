@@ -22,9 +22,9 @@ Working through *The C Programming Language* (K&R) to master low-level memory, p
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 35 mins    ███████████████████▒░░░░░   77.02 %
-JavaScript   21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-CSS          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+PHP          1 hr 8 mins     █████████████▓░░░░░░░░░░░   54.64 %
+JavaScript   47 mins         █████████▓░░░░░░░░░░░░░░░   38.05 %
+CSS          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
 ```
 
 <!--END_SECTION:waka-->
