@@ -9,14 +9,14 @@ Check out my portfolio website to see my projects and experience:
 I'm deeply interested in understanding how computers work at a low level — from how code runs on hardware, to how systems coordinate resources, handle memory, I/O, networking, and more. I'm pursuing systems programming through both operating systems and C programming fundamentals.
 
 ### Operating Systems  
-Studying *Operating Systems: Three Easy Pieces* and exploring the [xv6](https://github.com/mit-pdos/xv6-public) teaching OS.  
-➡️ [OS Learning Repo](https://github.com/Dieg0raf/os)  
+Studying *Operating Systems: Three Easy Pieces* and exploring the [xv6](https://github.com/Dieg0raf/xv6) teaching OS.  
+➡️ [My xv6 Changes & Experiments](https://github.com/Dieg0raf/xv6)  
 ➡️ [OSTEP Textbook](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-### C Programming  
-Working through *The C Programming Language* (K&R) to master low-level memory, pointers, and systems-style thinking in C.  
-➡️ [K&R Practice Repo](https://github.com/Dieg0raf/k-and-r-practice) 
-
+### Completed Books  
+Here are some books I’ve completed, along with practice repositories for each:  
+- *The C Programming Language* (K&R) — [Practice Repo](https://github.com/Dieg0raf/k-and-r-practice)  
+- *Operating Systems: Three Easy Pieces* — [Practice Repo](https://github.com/Dieg0raf/os)
 
 ## 📊 Coding during the Past 7 Days: 
 <!--START_SECTION:waka-->
