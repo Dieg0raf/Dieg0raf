@@ -22,11 +22,11 @@ Here are some books I’ve completed, along with practice repositories for each:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 hrs 27 mins  ████████████████████████▒   97.89 %
-C            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JavaScript   10 hrs 27 mins  ████████████████████████░   95.93 %
+C            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Makefile     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
