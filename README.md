@@ -22,11 +22,11 @@ Here are some books I’ve completed, along with practice repositories for each:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      9 hrs 53 mins   █████████████████░░░░░░░░   68.50 %
-C               3 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Assembly        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Makefile        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-JSON            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+C               7 hrs 40 mins   ███████████████░░░░░░░░░░   59.78 %
+JavaScript      3 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
+Makefile        52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Assembly        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Perl            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
