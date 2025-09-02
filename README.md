@@ -22,11 +22,11 @@ Here are some books I’ve completed, along with practice repositories for each:
 <!--START_SECTION:waka-->
 
 ```txt
-Python          7 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   32.42 %
-C               7 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   31.69 %
-TypeScript      6 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   27.36 %
-Makefile        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Assembly        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Python          9 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.35 %
+TypeScript      8 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.27 %
+C               7 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+Markdown        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Makefile        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
