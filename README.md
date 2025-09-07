@@ -22,11 +22,11 @@ Here are some books I’ve completed, along with practice repositories for each:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 13 mins  █████████████▓░░░░░░░░░░░   55.03 %
-Python       10 hrs 13 mins  ██████████░░░░░░░░░░░░░░░   39.54 %
-Markdown     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript   16 hrs 43 mins  █████████████░░░░░░░░░░░░   52.07 %
+Python       14 hrs 7 mins   ███████████░░░░░░░░░░░░░░   43.96 %
+Markdown     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Text         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
