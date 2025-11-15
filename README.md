@@ -22,10 +22,10 @@ Here are some books I’ve completed, along with practice repositories for each:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      11 hrs 21 mins  ███████████████████████▓░   94.84 %
-CSS      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Python   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP      16 hrs 9 mins   ███████████████████████▓░   94.92 %
+CSS      26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Python   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
